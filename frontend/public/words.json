@@ -1,0 +1,2986 @@
+[
+  {
+    "id": 1,
+    "word": "Korb",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "basket"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "prägen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to shape",
+      "to mark"
+    ]
+  },
+  {
+    "id": 3,
+    "word": "verschieben",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to postpone",
+      "to move"
+    ]
+  },
+  {
+    "id": 4,
+    "word": "zusammenbrechen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to collapse",
+      "to break down"
+    ]
+  },
+  {
+    "id": 5,
+    "word": "Kontext",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "context"
+    ]
+  },
+  {
+    "id": 6,
+    "word": "Versagen",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "failure"
+    ]
+  },
+  {
+    "id": 7,
+    "word": "sich ausdrücken",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to express oneself"
+    ]
+  },
+  {
+    "id": 8,
+    "word": "Zielsprache",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "target language"
+    ]
+  },
+  {
+    "id": 9,
+    "word": "Ware",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "goods",
+      "commodity"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "Gebrauchswert",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "use value"
+    ]
+  },
+  {
+    "id": 11,
+    "word": "Reichtum",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "wealth"
+    ]
+  },
+  {
+    "id": 12,
+    "word": "Produktionsweise",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "mode of production"
+    ]
+  },
+  {
+    "id": 13,
+    "word": "daher",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "therefore",
+      "hence"
+    ]
+  },
+  {
+    "id": 14,
+    "word": "Gegenstand",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "object",
+      "item"
+    ]
+  },
+  {
+    "id": 15,
+    "word": "Eigenschaft",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "characteristic",
+      "property"
+    ]
+  },
+  {
+    "id": 16,
+    "word": "Produktionsmittel",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "means of production"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "betrachten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to consider",
+      "to look at"
+    ]
+  },
+  {
+    "id": 18,
+    "word": "Tat",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "act",
+      "deed"
+    ]
+  },
+  {
+    "id": 19,
+    "word": "mannigfach",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "diverse",
+      "manifold"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "Aneignung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "appropriation",
+      "acquisition"
+    ]
+  },
+  {
+    "id": 21,
+    "word": "bedingen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to condition",
+      "to determine"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "Gebrauchseigenschaft",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "useful property"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "voraussetzen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to presuppose",
+      "to assume"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "sich verwirklichen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to realize itself",
+      "to be realized"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "Träger",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "carrier",
+      "bearer"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "Tauschwert",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "exchange value"
+    ]
+  },
+  {
+    "id": 27,
+    "word": "zugleich",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "at the same time",
+      "simultaneously"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "gewiss",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "certain"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "tauschen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to exchange",
+      "to swap"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "ausdrücken",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to express"
+    ]
+  },
+  {
+    "id": 31,
+    "word": "unterscheidbar",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "distinguishable"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "Gehalt",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "content"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "ferner",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "furthermore"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "Gleichung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "equation"
+    ]
+  },
+  {
+    "id": 35,
+    "word": "besagen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to state",
+      "to say",
+      "to assert"
+    ]
+  },
+  {
+    "id": 36,
+    "word": "stets",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "always",
+      "invariably"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "veranschaulichen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to illustrate"
+    ]
+  },
+  {
+    "id": 38,
+    "word": "auflösen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to dissolve",
+      "to break down into parts"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "darstellen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to represent",
+      "to depict"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "andererseits",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "on the other hand"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "augenscheinlich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "evident",
+      "apparent"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "jedoch",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "however"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "übrig bleiben",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to remain",
+      "to be left over"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "Beschaffenheit",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "quality",
+      "condition",
+      "nature"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "reduzieren",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to reduce"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "aufhäufen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to pile up",
+      "to accumulate"
+    ]
+  },
+  {
+    "id": 47,
+    "word": "gemeinschaftlich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "common",
+      "shared"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "durchaus",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "absolutely",
+      "completely"
+    ]
+  },
+  {
+    "id": 49,
+    "word": "unabhängig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "independent"
+    ]
+  },
+  {
+    "id": 50,
+    "word": "abstrahieren",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to abstract"
+    ]
+  },
+  {
+    "id": 51,
+    "word": "erhalten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to obtain",
+      "to receive",
+      "to preserve"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "Fortgang",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "progress",
+      "continuation"
+    ]
+  },
+  {
+    "id": 53,
+    "word": "Zeitdauer",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "duration"
+    ]
+  },
+  {
+    "id": 54,
+    "word": "zahllos",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "countless"
+    ]
+  },
+  {
+    "id": 55,
+    "word": "bestehen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to consist (of)",
+      "to exist",
+      "to pass (an exam)"
+    ]
+  },
+  {
+    "id": 56,
+    "word": "soweit",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "so far",
+      "as far as"
+    ]
+  },
+  {
+    "id": 57,
+    "word": "vorhanden",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "existing",
+      "available"
+    ]
+  },
+  {
+    "id": 58,
+    "word": "benötigt",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "required"
+    ]
+  },
+  {
+    "id": 59,
+    "word": "erforderlich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "necessary",
+      "required"
+    ]
+  },
+  {
+    "id": 60,
+    "word": "ungeschickt",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "clumsy",
+      "awkward"
+    ]
+  },
+  {
+    "id": 61,
+    "word": "faul",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "lazy",
+      "rotten"
+    ]
+  },
+  {
+    "id": 62,
+    "word": "fallen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to fall",
+      "to drop"
+    ]
+  },
+  {
+    "id": 63,
+    "word": "Herstellung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "production",
+      "manufacturing"
+    ]
+  },
+  {
+    "id": 64,
+    "word": "gnadenlos",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "merciless"
+    ]
+  },
+  {
+    "id": 65,
+    "word": "ablenken",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to distract",
+      "to divert"
+    ]
+  },
+  {
+    "id": 66,
+    "word": "fehlend",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "missing"
+    ]
+  },
+  {
+    "id": 67,
+    "word": "anschließend",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "afterwards",
+      "subsequently"
+    ]
+  },
+  {
+    "id": 68,
+    "word": "durchstöbern",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to browse",
+      "to rummage through"
+    ]
+  },
+  {
+    "id": 69,
+    "word": "greifen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to grab",
+      "to reach (for)"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "mitbekommen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to notice",
+      "to catch (something)"
+    ]
+  },
+  {
+    "id": 71,
+    "word": "schallgeschützt",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "soundproofed"
+    ]
+  },
+  {
+    "id": 72,
+    "word": "merkwürdig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "strange",
+      "odd"
+    ]
+  },
+  {
+    "id": 73,
+    "word": "Verdacht",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "suspicion"
+    ]
+  },
+  {
+    "id": 74,
+    "word": "halten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to hold",
+      "to consider (to be)"
+    ]
+  },
+  {
+    "id": 75,
+    "word": "verlegen",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "embarrassed"
+    ]
+  },
+  {
+    "id": 76,
+    "word": "aufgeregt",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "excited",
+      "nervous"
+    ]
+  },
+  {
+    "id": 77,
+    "word": "erwähnen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to mention"
+    ]
+  },
+  {
+    "id": 78,
+    "word": "ausgiebig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "extensive",
+      "thorough"
+    ]
+  },
+  {
+    "id": 79,
+    "word": "aufreibend",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "grueling",
+      "exhausting"
+    ]
+  },
+  {
+    "id": 80,
+    "word": "düster",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "gloomy",
+      "dark"
+    ]
+  },
+  {
+    "id": 81,
+    "word": "enthüllen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to reveal",
+      "to unveil"
+    ]
+  },
+  {
+    "id": 82,
+    "word": "Neugier",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": 83,
+    "word": "wiederholen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to repeat"
+    ]
+  },
+  {
+    "id": 84,
+    "word": "abgeben",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to drop off",
+      "to hand in"
+    ]
+  },
+  {
+    "id": 85,
+    "word": "eintragen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to enter (into a system)",
+      "to register"
+    ]
+  },
+  {
+    "id": 86,
+    "word": "überprüfen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to check",
+      "to verify"
+    ]
+  },
+  {
+    "id": 87,
+    "word": "Kreuzung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "crossroads",
+      "intersection"
+    ]
+  },
+  {
+    "id": 88,
+    "word": "abbiegen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to turn (off)"
+    ]
+  },
+  {
+    "id": 89,
+    "word": "auswerten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to evaluate",
+      "to analyze"
+    ]
+  },
+  {
+    "id": 90,
+    "word": "Nebenwirkung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "side effect"
+    ]
+  },
+  {
+    "id": 91,
+    "word": "Streit",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "argument",
+      "quarrel"
+    ]
+  },
+  {
+    "id": 92,
+    "word": "Anbetung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "worship",
+      "adoration"
+    ]
+  },
+  {
+    "id": 93,
+    "word": "süchtig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "addicted"
+    ]
+  },
+  {
+    "id": 94,
+    "word": "zehren",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to feed on",
+      "to live off",
+      "to rely on"
+    ]
+  },
+  {
+    "id": 95,
+    "word": "aufblühen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to blossom",
+      "to flourish"
+    ]
+  },
+  {
+    "id": 96,
+    "word": "vorübergehend",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "temporary"
+    ]
+  },
+  {
+    "id": 97,
+    "word": "Zweisamkeit",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "togetherness"
+    ]
+  },
+  {
+    "id": 98,
+    "word": "Wimper",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "eyelash"
+    ]
+  },
+  {
+    "id": 99,
+    "word": "Strafe",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "punishment",
+      "penalty"
+    ]
+  },
+  {
+    "id": 100,
+    "word": "Zehenspitze",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "tiptoe"
+    ]
+  },
+  {
+    "id": 101,
+    "word": "Kehle",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "throat"
+    ]
+  },
+  {
+    "id": 102,
+    "word": "Taille",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "waist"
+    ]
+  },
+  {
+    "id": 103,
+    "word": "Kismet",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "fate",
+      "destiny"
+    ]
+  },
+  {
+    "id": 104,
+    "word": "Verlobte",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "fiancé"
+    ]
+  },
+  {
+    "id": 105,
+    "word": "Verlobung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "engagement"
+    ]
+  },
+  {
+    "id": 106,
+    "word": "Lächeln",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "smile"
+    ]
+  },
+  {
+    "id": 107,
+    "word": "Schweiß",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "sweat"
+    ]
+  },
+  {
+    "id": 108,
+    "word": "Seele",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "soul"
+    ]
+  },
+  {
+    "id": 109,
+    "word": "Hunger",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "hunger"
+    ]
+  },
+  {
+    "id": 110,
+    "word": "Nähe",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "closeness",
+      "proximity"
+    ]
+  },
+  {
+    "id": 111,
+    "word": "Miete",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "rent"
+    ]
+  },
+  {
+    "id": 112,
+    "word": "Ellbogen",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "elbow"
+    ]
+  },
+  {
+    "id": 113,
+    "word": "Kopfteil",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "headboard"
+    ]
+  },
+  {
+    "id": 114,
+    "word": "Manuskript",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "manuscript"
+    ]
+  },
+  {
+    "id": 115,
+    "word": "Schwanz",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "tail",
+      "penis (vulgar)"
+    ]
+  },
+  {
+    "id": 116,
+    "word": "Atem",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "breath"
+    ]
+  },
+  {
+    "id": 117,
+    "word": "Sehnsucht",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "longing",
+      "yearning"
+    ]
+  },
+  {
+    "id": 118,
+    "word": "Unendlichkeit",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "infinity",
+      "eternity"
+    ]
+  },
+  {
+    "id": 119,
+    "word": "sich heften",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to cling to",
+      "to attach oneself to"
+    ]
+  },
+  {
+    "id": 120,
+    "word": "versetzen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to transfer",
+      "to relocate"
+    ]
+  },
+  {
+    "id": 121,
+    "word": "vorschlagen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to suggest",
+      "to propose"
+    ]
+  },
+  {
+    "id": 122,
+    "word": "eindringen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to penetrate",
+      "to enter"
+    ]
+  },
+  {
+    "id": 123,
+    "word": "erstarren",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to freeze",
+      "to go rigid",
+      "to be stunned"
+    ]
+  },
+  {
+    "id": 124,
+    "word": "überrumpeln",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to catch off guard",
+      "to blindside"
+    ]
+  },
+  {
+    "id": 125,
+    "word": "sich stützen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to lean on",
+      "to prop oneself on"
+    ]
+  },
+  {
+    "id": 126,
+    "word": "aussprechen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to voice",
+      "to say out loud",
+      "to pronounce"
+    ]
+  },
+  {
+    "id": 127,
+    "word": "erschaffen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to create"
+    ]
+  },
+  {
+    "id": 128,
+    "word": "verwandeln",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to transform"
+    ]
+  },
+  {
+    "id": 129,
+    "word": "raunen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to murmur",
+      "to whisper"
+    ]
+  },
+  {
+    "id": 130,
+    "word": "sich schmiegen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to nestle",
+      "to snuggle"
+    ]
+  },
+  {
+    "id": 131,
+    "word": "wecken",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to wake (someone) up"
+    ]
+  },
+  {
+    "id": 132,
+    "word": "streichen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to stroke",
+      "to brush",
+      "to cross out"
+    ]
+  },
+  {
+    "id": 133,
+    "word": "umklammern",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to grip",
+      "to cling to"
+    ]
+  },
+  {
+    "id": 134,
+    "word": "ersticken",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to smother",
+      "to stifle",
+      "to suffocate"
+    ]
+  },
+  {
+    "id": 135,
+    "word": "durchbiegen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to arch",
+      "to bend"
+    ]
+  },
+  {
+    "id": 136,
+    "word": "sich verloben",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to get engaged"
+    ]
+  },
+  {
+    "id": 137,
+    "word": "empfangen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to receive",
+      "to conceive"
+    ]
+  },
+  {
+    "id": 138,
+    "word": "heiser",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "hoarse",
+      "husky"
+    ]
+  },
+  {
+    "id": 139,
+    "word": "entschlossen",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "determined",
+      "resolute"
+    ]
+  },
+  {
+    "id": 140,
+    "word": "grausam",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "cruel",
+      "terrible"
+    ]
+  },
+  {
+    "id": 141,
+    "word": "sinnvoll",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "meaningful",
+      "sensible"
+    ]
+  },
+  {
+    "id": 142,
+    "word": "schadlos",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "unharmed",
+      "unscathed"
+    ]
+  },
+  {
+    "id": 143,
+    "word": "Pluspunkt",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "plus point",
+      "advantage"
+    ]
+  },
+  {
+    "id": 144,
+    "word": "Minuspunkt",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "minus point",
+      "disadvantage"
+    ]
+  },
+  {
+    "id": 145,
+    "word": "Brise",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "breeze"
+    ]
+  },
+  {
+    "id": 146,
+    "word": "Mitleid",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "pity",
+      "sympathy"
+    ]
+  },
+  {
+    "id": 147,
+    "word": "Augenwinkel",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "corner of the eye"
+    ]
+  },
+  {
+    "id": 148,
+    "word": "Hülle",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "shell",
+      "husk",
+      "cover"
+    ]
+  },
+  {
+    "id": 149,
+    "word": "Betonblock",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "concrete block"
+    ]
+  },
+  {
+    "id": 150,
+    "word": "Riss",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "crack",
+      "fissure"
+    ]
+  },
+  {
+    "id": 151,
+    "word": "Rollstuhl",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "wheelchair"
+    ]
+  },
+  {
+    "id": 152,
+    "word": "Terrassentür",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "patio door"
+    ]
+  },
+  {
+    "id": 153,
+    "word": "Knarzen",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "creaking"
+    ]
+  },
+  {
+    "id": 154,
+    "word": "Steg",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "jetty",
+      "footbridge"
+    ]
+  },
+  {
+    "id": 155,
+    "word": "Planke",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "plank"
+    ]
+  },
+  {
+    "id": 156,
+    "word": "Vorhang",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "curtain"
+    ]
+  },
+  {
+    "id": 157,
+    "word": "Ventilator",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "fan"
+    ]
+  },
+  {
+    "id": 158,
+    "word": "Fernbedienung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "remote control"
+    ]
+  },
+  {
+    "id": 159,
+    "word": "Zeitschaltuhr",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "timer switch"
+    ]
+  },
+  {
+    "id": 160,
+    "word": "Riegel",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "bolt"
+    ]
+  },
+  {
+    "id": 161,
+    "word": "Riegelschloss",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "bolt lock"
+    ]
+  },
+  {
+    "id": 162,
+    "word": "Schlafwandlerei",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "sleepwalking"
+    ]
+  },
+  {
+    "id": 163,
+    "word": "Vorratsschrank",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "pantry cupboard",
+      "larder"
+    ]
+  },
+  {
+    "id": 164,
+    "word": "Hühnerfrikassee",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "chicken fricassee"
+    ]
+  },
+  {
+    "id": 165,
+    "word": "Vorschuss",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "advance (payment)"
+    ]
+  },
+  {
+    "id": 166,
+    "word": "Räumungsklage",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "eviction lawsuit"
+    ]
+  },
+  {
+    "id": 167,
+    "word": "Räumungsbescheid",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "eviction notice"
+    ]
+  },
+  {
+    "id": 168,
+    "word": "Widerspruch",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "objection",
+      "contradiction",
+      "appeal"
+    ]
+  },
+  {
+    "id": 169,
+    "word": "Narbe",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "scar"
+    ]
+  },
+  {
+    "id": 170,
+    "word": "Kratzer",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "scratch"
+    ]
+  },
+  {
+    "id": 171,
+    "word": "Lebensmittelallergie",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "food allergy"
+    ]
+  },
+  {
+    "id": 172,
+    "word": "Wölbung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "bulge",
+      "curve"
+    ]
+  },
+  {
+    "id": 173,
+    "word": "Zellklumpen",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "clump of cells"
+    ]
+  },
+  {
+    "id": 174,
+    "word": "Abort",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "miscarriage",
+      "toilet (archaic)"
+    ]
+  },
+  {
+    "id": 175,
+    "word": "Kloschüssel",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "toilet bowl"
+    ]
+  },
+  {
+    "id": 176,
+    "word": "Krampf",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "cramp",
+      "spasm"
+    ]
+  },
+  {
+    "id": 177,
+    "word": "Wachkoma",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "vegetative state"
+    ]
+  },
+  {
+    "id": 178,
+    "word": "Säugling",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "infant",
+      "baby"
+    ]
+  },
+  {
+    "id": 179,
+    "word": "Bartstoppel",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "stubble"
+    ]
+  },
+  {
+    "id": 180,
+    "word": "Pflegeheim",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "nursing home",
+      "care home"
+    ]
+  },
+  {
+    "id": 181,
+    "word": "versperren",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to block",
+      "to obstruct"
+    ]
+  },
+  {
+    "id": 182,
+    "word": "lauschen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to listen closely",
+      "to eavesdrop"
+    ]
+  },
+  {
+    "id": 183,
+    "word": "knarzen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to creak"
+    ]
+  },
+  {
+    "id": 184,
+    "word": "anstarren",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to stare at"
+    ]
+  },
+  {
+    "id": 185,
+    "word": "sich abwenden",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to turn away",
+      "to look away"
+    ]
+  },
+  {
+    "id": 186,
+    "word": "ertragen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to endure",
+      "to bear"
+    ]
+  },
+  {
+    "id": 187,
+    "word": "hüten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to guard",
+      "to watch over"
+    ]
+  },
+  {
+    "id": 188,
+    "word": "durchforsten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to search through",
+      "to comb through"
+    ]
+  },
+  {
+    "id": 189,
+    "word": "durcharbeiten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to work through"
+    ]
+  },
+  {
+    "id": 190,
+    "word": "erschrecken",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to startle",
+      "to frighten",
+      "to be startled"
+    ]
+  },
+  {
+    "id": 191,
+    "word": "sich rückversichern",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to double-check",
+      "to reassure oneself"
+    ]
+  },
+  {
+    "id": 192,
+    "word": "abziehen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to withdraw",
+      "to deduct"
+    ]
+  },
+  {
+    "id": 193,
+    "word": "leihen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to lend",
+      "to borrow"
+    ]
+  },
+  {
+    "id": 194,
+    "word": "annehmen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to accept",
+      "to assume"
+    ]
+  },
+  {
+    "id": 195,
+    "word": "kondolieren",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to offer condolences"
+    ]
+  },
+  {
+    "id": 196,
+    "word": "sich schämen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to be ashamed"
+    ]
+  },
+  {
+    "id": 197,
+    "word": "preisgeben",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to reveal",
+      "to disclose"
+    ]
+  },
+  {
+    "id": 198,
+    "word": "ausloten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to fathom",
+      "to sound out"
+    ]
+  },
+  {
+    "id": 199,
+    "word": "sich straffen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to straighten up",
+      "to pull oneself together"
+    ]
+  },
+  {
+    "id": 200,
+    "word": "abreißen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to tear off",
+      "to tear down"
+    ]
+  },
+  {
+    "id": 201,
+    "word": "wegschleppen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to drag away",
+      "to haul away"
+    ]
+  },
+  {
+    "id": 202,
+    "word": "sich bauschen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to billow",
+      "to puff out"
+    ]
+  },
+  {
+    "id": 203,
+    "word": "einziehen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to suck in",
+      "to retract",
+      "to move in"
+    ]
+  },
+  {
+    "id": 204,
+    "word": "anwidern",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to disgust",
+      "to repel"
+    ]
+  },
+  {
+    "id": 205,
+    "word": "schonen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to spare",
+      "to protect"
+    ]
+  },
+  {
+    "id": 206,
+    "word": "verhätscheln",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to pamper",
+      "to mollycoddle"
+    ]
+  },
+  {
+    "id": 207,
+    "word": "vernichten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to destroy"
+    ]
+  },
+  {
+    "id": 208,
+    "word": "runterspülen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to wash down"
+    ]
+  },
+  {
+    "id": 209,
+    "word": "runterstürzen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to gulp down"
+    ]
+  },
+  {
+    "id": 210,
+    "word": "wegziehen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to pull away",
+      "to move away"
+    ]
+  },
+  {
+    "id": 211,
+    "word": "anbringen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to install",
+      "to attach",
+      "to put up"
+    ]
+  },
+  {
+    "id": 212,
+    "word": "vorschieben",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to slide forward",
+      "to use as a pretext"
+    ]
+  },
+  {
+    "id": 213,
+    "word": "reglos",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "motionless",
+      "still"
+    ]
+  },
+  {
+    "id": 214,
+    "word": "willenlos",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "lacking will",
+      "passive"
+    ]
+  },
+  {
+    "id": 215,
+    "word": "mulmig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "queasy",
+      "uneasy"
+    ]
+  },
+  {
+    "id": 216,
+    "word": "unerschütterlich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "unshakeable",
+      "unwavering"
+    ]
+  },
+  {
+    "id": 217,
+    "word": "fürsorglich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "caring",
+      "nurturing"
+    ]
+  },
+  {
+    "id": 218,
+    "word": "schwächlich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "weakly",
+      "feeble"
+    ]
+  },
+  {
+    "id": 219,
+    "word": "schwach",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "weak"
+    ]
+  },
+  {
+    "id": 220,
+    "word": "behutsam",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "gentle",
+      "careful"
+    ]
+  },
+  {
+    "id": 221,
+    "word": "lässig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "casual",
+      "laid-back"
+    ]
+  },
+  {
+    "id": 222,
+    "word": "geistig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "mental",
+      "intellectual"
+    ]
+  },
+  {
+    "id": 223,
+    "word": "unverletzt",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "uninjured",
+      "intact"
+    ]
+  },
+  {
+    "id": 224,
+    "word": "hinfällig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "invalid",
+      "obsolete",
+      "frail"
+    ]
+  },
+  {
+    "id": 225,
+    "word": "sich verkriechen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to crawl away",
+      "to hide"
+    ]
+  },
+  {
+    "id": 226,
+    "word": "ausbaden",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to pay the price for",
+      "to take the rap for"
+    ]
+  },
+  {
+    "id": 227,
+    "word": "leidtun",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to be sorry",
+      "to feel sorry"
+    ]
+  },
+  {
+    "id": 228,
+    "word": "sich zusammenreißen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to pull oneself together"
+    ]
+  },
+  {
+    "id": 229,
+    "word": "Begabung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "talent",
+      "gift"
+    ]
+  },
+  {
+    "id": 230,
+    "word": "bloß",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "just",
+      "merely"
+    ]
+  },
+  {
+    "id": 231,
+    "word": "unweigerlich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "inevitable"
+    ]
+  },
+  {
+    "id": 232,
+    "word": "erleichtert",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "relieved"
+    ]
+  },
+  {
+    "id": 233,
+    "word": "verdrängen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to suppress",
+      "to repress",
+      "to displace"
+    ]
+  },
+  {
+    "id": 234,
+    "word": "loslassen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to let go"
+    ]
+  },
+  {
+    "id": 235,
+    "word": "vorkommen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to occur",
+      "to appear",
+      "to seem"
+    ]
+  },
+  {
+    "id": 236,
+    "word": "zunehmen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to gain (weight)",
+      "to increase"
+    ]
+  },
+  {
+    "id": 237,
+    "word": "ergeben",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to result in",
+      "to form",
+      "to amount to"
+    ]
+  },
+  {
+    "id": 238,
+    "word": "vernachlässigen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to neglect"
+    ]
+  },
+  {
+    "id": 239,
+    "word": "Diebstahl",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "theft"
+    ]
+  },
+  {
+    "id": 240,
+    "word": "entbinden",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to give birth",
+      "to deliver"
+    ]
+  },
+  {
+    "id": 241,
+    "word": "einrichten",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to arrange",
+      "to set up",
+      "to furnish"
+    ]
+  },
+  {
+    "id": 242,
+    "word": "verzeihen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to forgive"
+    ]
+  },
+  {
+    "id": 243,
+    "word": "Abtreibung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "abortion"
+    ]
+  },
+  {
+    "id": 244,
+    "word": "unberührt",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "untouched"
+    ]
+  },
+  {
+    "id": 245,
+    "word": "unangetastet",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "untouched",
+      "intact"
+    ]
+  },
+  {
+    "id": 246,
+    "word": "zweifeln",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to doubt"
+    ]
+  },
+  {
+    "id": 247,
+    "word": "sich trauen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to dare"
+    ]
+  },
+  {
+    "id": 248,
+    "word": "auslösen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to trigger",
+      "to set off"
+    ]
+  },
+  {
+    "id": 249,
+    "word": "umgekehrt",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "vice versa",
+      "conversely"
+    ]
+  },
+  {
+    "id": 250,
+    "word": "zögernd",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "hesitant"
+    ]
+  },
+  {
+    "id": 251,
+    "word": "Ballast",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "ballast",
+      "burden"
+    ]
+  },
+  {
+    "id": 252,
+    "word": "anscheinend",
+    "typeData": {
+      "type": "adverb"
+    },
+    "translations": [
+      "apparently"
+    ]
+  },
+  {
+    "id": 253,
+    "word": "Scheibe",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "pane",
+      "window",
+      "slice"
+    ]
+  },
+  {
+    "id": 254,
+    "word": "leugnen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to deny"
+    ]
+  },
+  {
+    "id": 255,
+    "word": "erwidern",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to reply",
+      "to return"
+    ]
+  },
+  {
+    "id": 256,
+    "word": "klopfen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to knock",
+      "to beat (heart)"
+    ]
+  },
+  {
+    "id": 257,
+    "word": "sich sehnen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to long for",
+      "to crave"
+    ]
+  },
+  {
+    "id": 258,
+    "word": "ausstoßen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to emit",
+      "to release"
+    ]
+  },
+  {
+    "id": 259,
+    "word": "Adrenalin",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "adrenaline"
+    ]
+  },
+  {
+    "id": 260,
+    "word": "ewig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "eternal"
+    ]
+  },
+  {
+    "id": 261,
+    "word": "Aufregung",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "excitement",
+      "agitation"
+    ]
+  },
+  {
+    "id": 262,
+    "word": "kramen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to rummage"
+    ]
+  },
+  {
+    "id": 263,
+    "word": "stolpern",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to trip",
+      "to stumble"
+    ]
+  },
+  {
+    "id": 264,
+    "word": "anfassen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to touch"
+    ]
+  },
+  {
+    "id": 265,
+    "word": "Schrei",
+    "typeData": {
+      "type": "noun",
+      "article": "der"
+    },
+    "translations": [
+      "scream",
+      "cry"
+    ]
+  },
+  {
+    "id": 266,
+    "word": "Wurzel",
+    "typeData": {
+      "type": "noun",
+      "article": "die"
+    },
+    "translations": [
+      "root"
+    ]
+  },
+  {
+    "id": 267,
+    "word": "ähnlich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "similar"
+    ]
+  },
+  {
+    "id": 268,
+    "word": "Gift",
+    "typeData": {
+      "type": "noun",
+      "article": "das"
+    },
+    "translations": [
+      "poison"
+    ]
+  },
+  {
+    "id": 269,
+    "word": "unbändig",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "unrestrained",
+      "wild"
+    ]
+  },
+  {
+    "id": 270,
+    "word": "versehentlich",
+    "typeData": {
+      "type": "adjective"
+    },
+    "translations": [
+      "accidental"
+    ]
+  },
+  {
+    "id": 271,
+    "word": "sich beruhigen",
+    "typeData": {
+      "type": "verb"
+    },
+    "translations": [
+      "to calm down"
+    ]
+  }
+]
