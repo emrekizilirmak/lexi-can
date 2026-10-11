@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Form Practice</title>
+
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 24px;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        max-width: 320px;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 4px;
+      }
+
+      input,
+      select,
+      button {
+        width: 100%;
+        padding: 6px 8px;
+      }
+
+      #translation-list > div {
+        display: flex;
+        gap: 8px;
+      }
+
+      #translation-list > div input {
+        flex: 1;
+      }
+
+      #translation-list > div button {
+        width: auto;
+      }
+    </style>
+  </head>
+
+  <body>
+    <form id="word-form">
+      <div>
+        <label for="word"> word </label>
+        <input id="word" name="word" type="text" required />
+      </div>
+
+      <div>
+        <label for="type"> type </label>
+        <select id="type" name="typeData.type">
+          <option value="noun">noun</option>
+          <option value="verb">verb</option>
+          <option value="adjective">adjective</option>
+          <option value="adverb">adverb</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="article"> article </label>
+        <select id="article" name="typeData.article">
+          <option value="">-</option>
+          <option value="der">der</option>
+          <option value="die">die</option>
+          <option value="das">das</option>
+        </select>
+      </div>
+
+      <div id="translation-list">
+        <label for="translations"> translation </label>
+        <input id="translations" name="translations" type="text" required />
+      </div>
+
+      <button type="button" id="add-translation">add translation</button>
+      <button type="submit">send</button>
+    </form>
+
+    <script>
+      const form = document.querySelector("#word-form");
+      const translationList = document.querySelector("#translation-list");
+
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
+
+        const formData = new FormData(form);
+        const type = formData.get("typeData.type");
+
+        const word = {
+          word: formData.get("word"),
+          typeData: { type: type },
+          translations: formData.getAll("translations"),
+        };
+
+        if (type === "noun") {
+          word.typeData.article = formData.get("typeData.article");
+        }
+
+        console.log(JSON.stringify(word, null, 2));
+      });
+
+      const addTranslation = document.querySelector("#add-translation");
+
+      addTranslation.addEventListener("click", (event) => {
+        const row = document.createElement("div");
+        const input = document.createElement("input");
+        input.name = "translations";
+        input.type = "text";
+        const rmButton = document.createElement("button");
+        rmButton.type = "button";
+        rmButton.textContent = "remove";
+        row.append(input, rmButton);
+
+        translationList.append(row);
+
+        rmButton.addEventListener("click", (event) => {
+          row.remove();
+        });
+      });
+    </script>
+  </body>
+</html>
