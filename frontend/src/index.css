@@ -1,7 +1,10 @@
 :root {
   --font-main: "JetBrains Mono Variable", monospace;
+  color-scheme: dark;
 }
 
 body {
   font-family: var(--font-main);
+  background: #1e1e1e;
+  color: #ddd;
 }
